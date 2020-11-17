@@ -1,5 +1,5 @@
 const initialState = {
-  query: ''
+  query: 'a'
 }
 
 function reducer(state = initialState, action) {
